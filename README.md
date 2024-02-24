@@ -1,0 +1,5 @@
+-first create an user  interface with java swing
+-Download the FreeTTS api in zip format
+-extract the zip file
+-add all jar file to project/library directory
+-import all neccasary package
